@@ -1,2 +1,1 @@
-# resume-maker
-this project is about making resume at one streach and download it....
+The code is deployed on Heroku and you can check the website at: https://faizan-cv-generator.herokuapp.com/
